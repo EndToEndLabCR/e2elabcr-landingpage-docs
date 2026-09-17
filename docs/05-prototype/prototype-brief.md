@@ -2,7 +2,7 @@
 
 | Attribute            | Value                                                         |
 | -------------------- | ------------------------------------------------------------- |
-| **Project**          | [Project Name]                                                |
+| **Project**          | EndToEndLabCR Landing Page                                                |
 | **Version**          | 0.1                                                           |
 | **Status**           | Draft                                                         |
 | **Prototyping Tool** | [Stitch / pen.dev (Pencil) / ASCII mockups / draw.io / Other] |

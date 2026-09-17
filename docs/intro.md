@@ -4,20 +4,20 @@ sidebar_position: 0
 
 # Introduction
 
-Welcome to the documentation for **[Project Name]**.
+Welcome to the documentation for **EndToEndLabCR Landing Page**.
 
-This site is built with [Docusaurus](https://docusaurus.io/) and contains all project documentation: context, requirements, planning, architecture, decisions, and prototype references.
+This site contains all project documentation: context, requirements, planning, architecture, decisions, and prototype references.
 
 ## Documentation Structure
 
-| Folder | Contents |
-| ------ | -------- |
-| [00-context](./00-context/README.md) | Project overview, user personas, glossary, and out-of-scope items |
-| [01-requirements](./01-requirements/README.md) | Feature requirements organized by feature slice |
-| [02-planning](./02-planning/README.md) | Phased roadmap and role mapping |
+| Folder                                         | Contents                                                                           |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [00-context](./00-context/README.md)           | Project overview, user personas, glossary, and out-of-scope items                  |
+| [01-requirements](./01-requirements/README.md) | Feature requirements organized by feature slice                                    |
+| [02-planning](./02-planning/README.md)         | Phased roadmap and role mapping                                                    |
 | [03-architecture](./03-architecture/README.md) | Core architecture, interface/data contracts, database, diagrams, ops, and security |
-| [04-decisions](./04-decisions/README.md) | Architectural Decision Records (ADRs) and decision log |
-| [05-prototype](./05-prototype/README.md) | Prototype brief, design direction, and prototype artifacts |
+| [04-decisions](./04-decisions/README.md)       | Architectural Decision Records (ADRs) and decision log                             |
+| [05-prototype](./05-prototype/README.md)       | Prototype brief, design direction, and prototype artifacts                         |
 
 > Update the links above once you rename the category folders for your project.
 
@@ -38,7 +38,7 @@ This site is built with [Docusaurus](https://docusaurus.io/) and contains all pr
 > opencode, and GitHub Copilot that interviews you and writes the answers into these docs
 > for you. Run `/docs-next` anytime to check section-by-section completion and get the
 > next recommended command. See the
-> [README's command table](https://github.com/your-org/template-docs#-generating-docs-with-ai-agents)
+> [README's command table](https://github.com/EndToEndLabCR/e2elabcr-landingpage-docs#-generating-docs-with-ai-agents)
 > for where each agent's commands live.
 
 ## Template Setup Checklist

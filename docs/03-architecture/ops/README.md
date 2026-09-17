@@ -2,7 +2,7 @@
 
 ## Overview
 
-Deployment, pipeline, and observability documents for [Project Name].
+Deployment, pipeline, and observability documents for EndToEndLabCR Landing Page.
 
 ## Documents
 

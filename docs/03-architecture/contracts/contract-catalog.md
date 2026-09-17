@@ -6,7 +6,7 @@ sidebar_position: 2
 
 | Attribute         | Value                                                               |
 | ----------------- | ------------------------------------------------------------------- |
-| **Project**       | [Project Name]                                                      |
+| **Project**       | EndToEndLabCR Landing Page                                                      |
 | **Version**       | 0.1                                                                 |
 | **Status**        | Draft                                                               |
 | **Contract Type** | [REST API / CLI / gRPC / Event-Message / Library-SDK / combination] |

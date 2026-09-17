@@ -5,8 +5,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Template Docs",
-  tagline: "A documentation template for your projects.",
+  title: "EndToEndLabCR Landing Page",
+  tagline: "Community hub docs for the EndToEndLabCR landing page",
   favicon: "img/favicon.svg",
 
   future: {
@@ -15,15 +15,15 @@ const config: Config = {
 
   // Set the production url of your site here.
   // For GitHub Pages, it is usually 'https://<organizationName>.github.io'.
-  url: "https://alonsovndev.github.io",
+  url: "https://EndToEndLabCR.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served.
   // For GitHub Pages deployment, it is often '/<projectName>/'.
-  baseUrl: "/template-docs/",
+  baseUrl: "/e2elabcr-landingpage-docs/",
 
   // GitHub Pages deployment config.
   // Replace with your GitHub org/user name and repository name.
-  organizationName: "alonsovndev",
-  projectName: "template-docs",
+  organizationName: "EndToEndLabCR",
+  projectName: "e2elabcr-landingpage-docs",
 
   onBrokenLinks: "throw",
   onBrokenAnchors: "throw",
@@ -49,7 +49,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
           // Point this to your repository to enable the "Edit this page" links.
-          editUrl: "https://github.com/alonsovndev/template-docs/edit/main/",
+          editUrl: "https://github.com/EndToEndLabCR/e2elabcr-landingpage-docs/edit/main/",
         },
         blog: false,
         theme: {
@@ -69,9 +69,9 @@ const config: Config = {
       theme: { light: "neutral", dark: "dark" },
     },
     navbar: {
-      title: "Template Docs",
+      title: "EndToEndLabCR Landing Page",
       logo: {
-        alt: "Template Docs Logo",
+        alt: "EndToEndLabCR Landing Page Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -82,7 +82,7 @@ const config: Config = {
           label: "Documentation",
         },
         {
-          href: "https://github.com/alonsovndev/template-docs",
+          href: "https://github.com/EndToEndLabCR/e2elabcr-landingpage-docs",
           label: "GitHub",
           position: "right",
         },
@@ -109,12 +109,12 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/alonsovndev/template-docs",
+              href: "https://github.com/EndToEndLabCR/e2elabcr-landingpage-docs",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Alonsovndev. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} EndToEndLabCR. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

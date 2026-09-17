@@ -1,6 +1,6 @@
 # Diagrams
 
-Architecture diagrams for [Project Name]. Diagrams are embedded as **Mermaid** blocks directly in markdown so they stay versioned and reviewable with the docs.
+Architecture diagrams for EndToEndLabCR Landing Page. Diagrams are embedded as **Mermaid** blocks directly in markdown so they stay versioned and reviewable with the docs.
 
 ## Diagram Types
 

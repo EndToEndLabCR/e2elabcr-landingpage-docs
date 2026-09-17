@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # User Personas
 
-**Purpose:** Define core user personas aligned to the [Project Name] overview to ensure requirements and workflows serve the target audiences.
+**Purpose:** Define core user personas aligned to the EndToEndLabCR Landing Page overview to ensure requirements and workflows serve the target audiences.
 
 > Create one persona per distinct stakeholder type identified in [overview.md](./overview.md) (typically 2–4). Use the template block below for each persona. Base personas on real research or interviews where possible; otherwise mark assumptions explicitly.
 

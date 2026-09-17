@@ -2,7 +2,7 @@
 
 | Attribute   | Value          |
 | ----------- | -------------- |
-| **Project** | [Project Name] |
+| **Project** | EndToEndLabCR Landing Page |
 | **Status**  | Draft          |
 | **Owner**   | Product Owner  |
 

@@ -1,6 +1,6 @@
 # Architectural Decisions
 
-This folder contains the Architectural Decision Records (ADRs) for [Project Name]. An ADR captures a significant architectural decision, the context that led to it, and the consequences.
+This folder contains the Architectural Decision Records (ADRs) for EndToEndLabCR Landing Page. An ADR captures a significant architectural decision, the context that led to it, and the consequences.
 
 ## Decision Log
 

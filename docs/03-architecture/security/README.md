@@ -2,7 +2,7 @@
 
 ## Overview
 
-Security architecture and threat modeling documents for [Project Name].
+Security architecture and threat modeling documents for EndToEndLabCR Landing Page.
 
 ## Documents
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 | Attribute        | Value                       |
 | ---------------- | --------------------------- |
-| **Project**      | [Project Name]              |
+| **Project**      | EndToEndLabCR Landing Page              |
 | **Version**      | 0.1                         |
 | **Status**       | Draft                       |
 
